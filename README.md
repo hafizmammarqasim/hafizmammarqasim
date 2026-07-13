@@ -28,10 +28,9 @@ A passionate Software Engineer focusing on robust, scalable backend architecture
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizmammarqasim&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmammarqasim&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizmammarqasim&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmammarqasim&layout=compact&theme=tokyonight)
 
 ---
 
