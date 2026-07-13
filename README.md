@@ -37,5 +37,5 @@ A passionate Software Engineer focusing on robust, scalable backend architecture
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** (https://www.linkedin.com/in/ihafizmammar/)
+* **LinkedIn:** [linkedin.com/in/ihafizmammar](https://www.linkedin.com/in/ihafizmammar/)
 * **Email:** ammarhafiz222@gmail.com
